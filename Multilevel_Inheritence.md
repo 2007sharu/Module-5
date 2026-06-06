@@ -64,5 +64,7 @@ print("Location:", obj.getLocation())
 
 ## Sample Output
 <img width="375" height="325" alt="image" src="https://github.com/user-attachments/assets/378737d3-6e1f-4222-a6ba-6bab07936d29" />
+
+
 ## Result 
 Thus, the code was successfully executed
